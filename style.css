@@ -1,0 +1,77 @@
+body{
+  background-image: url("images/labaule.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-size: 20px;
+  font-family: Roboto;
+}
+h1{
+  font-family: 'Allura', cursive;
+  color: red;
+  font-weight: strong;
+  font-size: 100px;
+}
+h2 {
+  font-family: Courier;
+  color: white;
+  font-weight: lighter;
+  font-size: 25px;
+}
+a {
+  color: grey;
+}
+a:hover {
+  text-decoration: none;
+  color: grey;
+}
+p{
+  font-family: Courier;
+  color: white;
+  font-weight: lighter;
+  font-size: 20px;
+}
+#banner p{
+  font-family: Courier;
+  color: yellow;
+  font-weight: lighter;
+  font-size: 20px;
+}
+#banner{
+  text-align: center;
+  padding: 150px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+#banner h1 {
+  color: white;
+  font-size: 50px;
+}
+#banner p {
+  color: white;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+}
+#footer{
+  text-align: center;
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+}
+.card{
+  text-align: center;
+  background-color: grey;
+  border-radius: 5px;
+  min-height: 250px;
+  margin:10px;
+  border-spacing: 5px;
+  padding: 10px;
+  font-weight: lighter;
+}
+#footer a {
+  color: lightgrey;
+  font-size: 15px;
+}
+#footer a:hover {
+  color: white;
+}
