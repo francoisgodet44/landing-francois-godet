@@ -9,7 +9,7 @@ h1{
   font-family: 'Allura', cursive;
   color: red;
   font-weight: strong;
-  font-size: 100px;
+  font-size: 300px;
 }
 h2 {
   font-family: Courier;
@@ -25,13 +25,13 @@ a:hover {
   color: grey;
 }
 p{
-  font-family: Courier;
+  font-family: 'Allura', cursive;
   color: white;
   font-weight: lighter;
   font-size: 20px;
 }
 #banner p{
-  font-family: Courier;
+  font-family: 'Allura', cursive;
   color: yellow;
   font-weight: lighter;
   font-size: 20px;
@@ -44,7 +44,7 @@ p{
 }
 #banner h1 {
   color: white;
-  font-size: 50px;
+  font-size: 150px;
 }
 #banner p {
   color: white;
